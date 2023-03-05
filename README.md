@@ -1,7 +1,7 @@
 # Overview
 This software is created as a tutorial for those who wish to learn and see in action various basic aspects and applications of the C# programming language. As someone who has never programmed in C# before, I hope to use this opportunity to learn and practice these basics myself, especially considering how much more commonplace and influentiual the C# language has become in recent years.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=ysze7ruUwy0)
 
 # Development Environment
 
@@ -13,8 +13,6 @@ To develop this software, I used Visual Studio Code along with the C# extension 
 - [ScriptCS official site](http://scriptcs.net/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - Further research Unions, and see if they can be implemented in C# despite little documentation, and no evidence on an existing data type in the language.
 - Make more clear the differences bewteen Classes and Structures by creating more Classes and Structures.
